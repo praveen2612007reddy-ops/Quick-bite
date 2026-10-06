@@ -1,0 +1,6 @@
+{
+  "name": "QuickBite Canteen Pre-Order System",
+  "description": "Modern full-stack canteen pre-order system for students and staff with real-time order tracking, menu management, and scheduled pickups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
